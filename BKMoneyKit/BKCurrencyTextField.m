@@ -19,6 +19,8 @@
 
 @implementation BKCurrencyTextField
 
+@synthesize userData;
+
 - (void)commonInit
 {
     [super commonInit];
