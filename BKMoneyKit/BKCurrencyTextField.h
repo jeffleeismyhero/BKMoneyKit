@@ -21,4 +21,9 @@
  */
 @property (strong, nonatomic) NSDecimalNumber               *numberValue;
 
+/**
+ * User defined data.
+ */
+@property (strong, nonatomic) NSDictionary                  *userData;
+ 
 @end
